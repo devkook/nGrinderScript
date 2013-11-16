@@ -5,6 +5,8 @@
 http://devkook.tumblr.com/post/67101326362/ngrinder-groovy-maven
 
 
+![groovy](http://groovy.codehaus.org/images/groovy-logo-medium.png)
+
 
 
 
